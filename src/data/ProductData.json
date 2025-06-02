@@ -1,0 +1,90 @@
+[
+  {
+    id: 0,
+    title: 'Xiaomi Mi True Wireless Earbuds',
+    imgURL:
+      'https://productimages.hepsiburada.net/s/27/424-600/10195185696818.jpg/format:webp',
+    price: '₺134,77',
+    inStock: true,
+  },
+  {
+    id: 1,
+    title: 'General Mobile GM 20',
+    imgURL:
+      'https://assets.generalmobile.com/images/gm20/gm-20-main-yesil.jpg.webp',
+    price: '₺1.810,21',
+    inStock: true,
+  },
+  {
+    id: 2,
+    title: 'Philips 58PUS8505/62 The One',
+    imgURL:
+      'https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_140499131?x=536&y=402&format=jpg&quality=80&sp=yes&strip=yes&trim&ex=536&ey=402&align=center&resizesource&unsharp=1.5x1+0.7+0.02&cox=0&coy=0&cdx=536&cdy=402',
+    price: '₺6.992,25',
+    inStock: false,
+  },
+  {
+    id: 3,
+    title: 'LG 49UM7100PLB Ultra HD 4K',
+    imgURL:
+      'https://resim.epey.com/165109/m_lg-43um7100plb-1.jpg',
+    price: '₺4.614,38',
+    inStock: true,
+  },
+  {
+    id: 4,
+    title: 'Samsung Galaxy M31 SM-M315F',
+    imgURL:
+      'https://images.samsung.com/is/image/samsung/tr-galaxy-m31-m315-sm-m315fzrvtur-frontred-220199130?$330_330_JPG$',
+    price: '₺2.995,80',
+    inStock: true,
+  },
+  {
+    id: 5,
+    title: 'Apple AirPods Series 2',
+    imgURL:
+      'https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_120875347?x=536&y=402&format=jpg&quality=80&sp=yes&strip=yes&trim&ex=536&ey=402&align=center&resizesource&unsharp=1.5x1+0.7+0.02&cox=0&coy=0&cdx=536&cdy=402',
+    price: '₺1.299,00',
+    inStock: true,
+  },
+  {
+    id: 6,
+    title: 'Lenovo Tab M10 Plus',
+    imgURL:
+      'https://cdn.vatanbilgisayar.com/Upload/PRODUCT/lenovo/thumb/140330-1-1_large.jpg',
+    price: '₺2.496,50',
+    inStock: false,
+  },
+  {
+    id: 7,
+    title: 'Xiaomi Redmi 20000 Mah',
+    imgURL:
+      'https://productimages.hepsiburada.net/s/42/424-600/10723311255602.jpg/format:webp',
+    price: '₺134,70',
+    inStock: false,
+  },
+  {
+    id: 8,
+    title: 'Xiaomi Mijia Smart Home 360',
+    imgURL:
+      'https://productimages.hepsiburada.net/s/23/424-600/10051049422898.jpg/format:webp',
+    price: '₺269,73',
+    inStock: true,
+  },
+  {
+    id: 9,
+    title: 'Xiaomi Mi Box S 4K Ultra HD',
+    imgURL:
+      'https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_106837820?x=1800&y=1800&format=jpg&quality=80&sp=yes&strip=yes&trim&ex=1800&ey=1800&align=center&resizesource&unsharp=1.5x1+0.7+0.02&cox=0&coy=0&cdx=1800&cdy=1800',
+    price: '₺478,53',
+    inStock: true,
+  },
+  {
+    id: 10,
+    title: 'Haylou Solar LS-5 Smartwatch',
+    imgURL:
+      'https://cdn.dsmcdn.com/mnresize/1200/1800/ty990/product/media/images/prod/SPM/PIM/20230829/22/cb6dda2b-62ec-3282-9a13-9dde013eb9fd/1_org_zoom.jpg',
+    price: '₺296,00',
+    inStock: true,
+  },
+];
